@@ -1,10 +1,11 @@
 import './App';
 import Home from './pages/Home';
+import ProductList from './pages/ProductList';
 
 function App() {
   return (
     <div className="">
-      <Home></Home>
+      <ProductList></ProductList>
     </div>
   );
 }
